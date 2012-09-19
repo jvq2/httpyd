@@ -1,3 +1,10 @@
+## Copyright 2012 Joey
+## 
+## httpyd is released under GPL. Please read the license before continuing.
+## 
+## The latest source can be found here:
+##	 https://github.com/jvq2/httpyd
+##
 from http.server import *
 import http.cookies
 import traceback
